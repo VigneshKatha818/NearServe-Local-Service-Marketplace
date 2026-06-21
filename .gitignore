@@ -1,0 +1,15 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Maven build files
+target/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+*.log
